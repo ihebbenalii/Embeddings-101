@@ -16,7 +16,7 @@ The notebook covers the following steps:
 5. **Visualize with UMAP**: Reduce dimensionality and visualize the embeddings.
 ### Results:
 - **Model Comparison**: Compares model performance against human-annotated similarity scores to evaluate the effectiveness of each embedding model.
-🛠 Usage
+### 🛠 Usage
 📦 Clone the Repository
 Clone the repository using the command below:
 ```bash
